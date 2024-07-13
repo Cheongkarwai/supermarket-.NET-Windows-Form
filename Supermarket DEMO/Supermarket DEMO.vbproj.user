@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Form1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="formAccount.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="formCheckout.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="formIndex.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="formLogin.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="formOrder.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="formOrderDetails.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="formProduct.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="formRegistration.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="riderHistory.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="riderHome.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="riderOverview.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="riderService.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="supplierAccount.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="SupplierForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="supplierHome.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="supplierInventory.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

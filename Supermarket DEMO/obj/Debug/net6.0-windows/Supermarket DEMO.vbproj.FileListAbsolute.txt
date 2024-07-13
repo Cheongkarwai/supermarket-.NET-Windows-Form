@@ -1,0 +1,65 @@
+C:\Users\cheon\source\repos\Supermarket DEMO\Supermarket DEMO\obj\Debug\net6.0-windows\Supermarket DEMO.vbproj.AssemblyReference.cache
+C:\Users\cheon\source\repos\Supermarket DEMO\Supermarket DEMO\obj\Debug\net6.0-windows\Supermarket_DEMO.Form1.resources
+C:\Users\cheon\source\repos\Supermarket DEMO\Supermarket DEMO\obj\Debug\net6.0-windows\Supermarket_DEMO.formAccount.resources
+C:\Users\cheon\source\repos\Supermarket DEMO\Supermarket DEMO\obj\Debug\net6.0-windows\Supermarket_DEMO.formCheckout.resources
+C:\Users\cheon\source\repos\Supermarket DEMO\Supermarket DEMO\obj\Debug\net6.0-windows\Supermarket_DEMO.formIndex.resources
+C:\Users\cheon\source\repos\Supermarket DEMO\Supermarket DEMO\obj\Debug\net6.0-windows\Supermarket_DEMO.formLogin.resources
+C:\Users\cheon\source\repos\Supermarket DEMO\Supermarket DEMO\obj\Debug\net6.0-windows\Supermarket_DEMO.formOrder.resources
+C:\Users\cheon\source\repos\Supermarket DEMO\Supermarket DEMO\obj\Debug\net6.0-windows\Supermarket_DEMO.formProduct.resources
+C:\Users\cheon\source\repos\Supermarket DEMO\Supermarket DEMO\obj\Debug\net6.0-windows\Supermarket_DEMO.formRegistration.resources
+C:\Users\cheon\source\repos\Supermarket DEMO\Supermarket DEMO\obj\Debug\net6.0-windows\Supermarket_DEMO.Resources.resources
+C:\Users\cheon\source\repos\Supermarket DEMO\Supermarket DEMO\obj\Debug\net6.0-windows\Supermarket_DEMO.SupplierForm.resources
+C:\Users\cheon\source\repos\Supermarket DEMO\Supermarket DEMO\obj\Debug\net6.0-windows\Supermarket_DEMO.supplierInventory.resources
+C:\Users\cheon\source\repos\Supermarket DEMO\Supermarket DEMO\obj\Debug\net6.0-windows\Supermarket DEMO.vbproj.GenerateResource.cache
+C:\Users\cheon\source\repos\Supermarket DEMO\Supermarket DEMO\obj\Debug\net6.0-windows\Supermarket DEMO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cheon\source\repos\Supermarket DEMO\Supermarket DEMO\obj\Debug\net6.0-windows\Supermarket DEMO.AssemblyInfoInputs.cache
+C:\Users\cheon\source\repos\Supermarket DEMO\Supermarket DEMO\obj\Debug\net6.0-windows\Supermarket DEMO.AssemblyInfo.vb
+C:\Users\cheon\source\repos\Supermarket DEMO\Supermarket DEMO\obj\Debug\net6.0-windows\Supermarket DEMO.vbproj.CoreCompileInputs.cache
+C:\Users\cheon\source\repos\Supermarket DEMO\Supermarket DEMO\bin\Debug\net6.0-windows\Supermarket DEMO.exe
+C:\Users\cheon\source\repos\Supermarket DEMO\Supermarket DEMO\bin\Debug\net6.0-windows\Supermarket DEMO.deps.json
+C:\Users\cheon\source\repos\Supermarket DEMO\Supermarket DEMO\bin\Debug\net6.0-windows\Supermarket DEMO.runtimeconfig.json
+C:\Users\cheon\source\repos\Supermarket DEMO\Supermarket DEMO\bin\Debug\net6.0-windows\Supermarket DEMO.dll
+C:\Users\cheon\source\repos\Supermarket DEMO\Supermarket DEMO\bin\Debug\net6.0-windows\Supermarket DEMO.pdb
+C:\Users\cheon\source\repos\Supermarket DEMO\Supermarket DEMO\bin\Debug\net6.0-windows\Blazorise.dll
+C:\Users\cheon\source\repos\Supermarket DEMO\Supermarket DEMO\bin\Debug\net6.0-windows\Blazorise.Icons.FontAwesome.dll
+C:\Users\cheon\source\repos\Supermarket DEMO\Supermarket DEMO\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+C:\Users\cheon\source\repos\Supermarket DEMO\Supermarket DEMO\bin\Debug\net6.0-windows\FontAwesome.Sharp.dll
+C:\Users\cheon\source\repos\Supermarket DEMO\Supermarket DEMO\bin\Debug\net6.0-windows\FontAwesome.Sharp.Pro.dll
+C:\Users\cheon\source\repos\Supermarket DEMO\Supermarket DEMO\bin\Debug\net6.0-windows\Google.Protobuf.dll
+C:\Users\cheon\source\repos\Supermarket DEMO\Supermarket DEMO\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+C:\Users\cheon\source\repos\Supermarket DEMO\Supermarket DEMO\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\cheon\source\repos\Supermarket DEMO\Supermarket DEMO\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+C:\Users\cheon\source\repos\Supermarket DEMO\Supermarket DEMO\bin\Debug\net6.0-windows\Microsoft.AspNetCore.Authorization.dll
+C:\Users\cheon\source\repos\Supermarket DEMO\Supermarket DEMO\bin\Debug\net6.0-windows\Microsoft.AspNetCore.Components.dll
+C:\Users\cheon\source\repos\Supermarket DEMO\Supermarket DEMO\bin\Debug\net6.0-windows\Microsoft.AspNetCore.Components.Forms.dll
+C:\Users\cheon\source\repos\Supermarket DEMO\Supermarket DEMO\bin\Debug\net6.0-windows\Microsoft.AspNetCore.Components.Web.dll
+C:\Users\cheon\source\repos\Supermarket DEMO\Supermarket DEMO\bin\Debug\net6.0-windows\Microsoft.AspNetCore.Metadata.dll
+C:\Users\cheon\source\repos\Supermarket DEMO\Supermarket DEMO\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\cheon\source\repos\Supermarket DEMO\Supermarket DEMO\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\cheon\source\repos\Supermarket DEMO\Supermarket DEMO\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\cheon\source\repos\Supermarket DEMO\Supermarket DEMO\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\cheon\source\repos\Supermarket DEMO\Supermarket DEMO\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\cheon\source\repos\Supermarket DEMO\Supermarket DEMO\bin\Debug\net6.0-windows\Microsoft.JSInterop.dll
+C:\Users\cheon\source\repos\Supermarket DEMO\Supermarket DEMO\bin\Debug\net6.0-windows\MySql.Data.dll
+C:\Users\cheon\source\repos\Supermarket DEMO\Supermarket DEMO\bin\Debug\net6.0-windows\Ubiety.Dns.Core.dll
+C:\Users\cheon\source\repos\Supermarket DEMO\Supermarket DEMO\bin\Debug\net6.0-windows\ZstdNet.dll
+C:\Users\cheon\source\repos\Supermarket DEMO\Supermarket DEMO\bin\Debug\net6.0-windows\System.IO.Pipelines.dll
+C:\Users\cheon\source\repos\Supermarket DEMO\Supermarket DEMO\obj\Debug\net6.0-windows\Supermarket DEMO.vbproj.CopyComplete
+C:\Users\cheon\source\repos\Supermarket DEMO\Supermarket DEMO\obj\Debug\net6.0-windows\Supermarket DEMO.dll
+C:\Users\cheon\source\repos\Supermarket DEMO\Supermarket DEMO\obj\Debug\net6.0-windows\refint\Supermarket DEMO.dll
+C:\Users\cheon\source\repos\Supermarket DEMO\Supermarket DEMO\obj\Debug\net6.0-windows\Supermarket DEMO.pdb
+C:\Users\cheon\source\repos\Supermarket DEMO\Supermarket DEMO\obj\Debug\net6.0-windows\Supermarket DEMO.genruntimeconfig.cache
+C:\Users\cheon\source\repos\Supermarket DEMO\Supermarket DEMO\obj\Debug\net6.0-windows\ref\Supermarket DEMO.dll
+C:\Users\cheon\source\repos\Supermarket DEMO\Supermarket DEMO\obj\Debug\net6.0-windows\Supermarket_DEMO.formOrderDetails.resources
+C:\Users\cheon\source\repos\Supermarket DEMO\Supermarket DEMO\obj\Debug\net6.0-windows\Supermarket_DEMO.supplierAccount.resources
+C:\Users\cheon\source\repos\Supermarket DEMO\Supermarket DEMO\bin\Debug\net6.0-windows\CircularProgressBar.dll
+C:\Users\cheon\source\repos\Supermarket DEMO\Supermarket DEMO\bin\Debug\net6.0-windows\WinFormAnimation.dll
+C:\Users\cheon\source\repos\Supermarket DEMO\Supermarket DEMO\obj\Debug\net6.0-windows\Supermarket_DEMO.supplierHome.resources
+C:\Users\cheon\source\repos\Supermarket DEMO\Supermarket DEMO\obj\Debug\net6.0-windows\Supermarket_DEMO.riderHistory.resources
+C:\Users\cheon\source\repos\Supermarket DEMO\Supermarket DEMO\obj\Debug\net6.0-windows\Supermarket_DEMO.riderHome.resources
+C:\Users\cheon\source\repos\Supermarket DEMO\Supermarket DEMO\obj\Debug\net6.0-windows\Supermarket_DEMO.riderOverview.resources
+C:\Users\cheon\source\repos\Supermarket DEMO\Supermarket DEMO\obj\Debug\net6.0-windows\Supermarket_DEMO.riderService.resources
+C:\Users\cheon\OneDrive\Documents\Supermarket DEMO\Supermarket DEMO\obj\Debug\net6.0-windows\Supermarket DEMO.vbproj.AssemblyReference.cache
+C:\Users\cheon\OneDrive\Documents\Supermarket DEMO\Supermarket DEMO\obj\Debug\net6.0-windows\Supermarket DEMO.dll
+C:\Users\cheon\OneDrive\Documents\Supermarket DEMO\Supermarket DEMO\obj\Debug\net6.0-windows\refint\Supermarket DEMO.dll
+C:\Users\cheon\OneDrive\Documents\Supermarket DEMO\Supermarket DEMO\obj\Debug\net6.0-windows\Supermarket DEMO.pdb
